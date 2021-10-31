@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'uni_sansheavy_caps';
+    src: url('heavy/uni_sans_heavy-webfont.woff2') format('woff2'),
+         url('heavy/uni_sans_heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+    color: white;
+    background-image: url("background.jpg");
+    font-family: uni_sansheavy_caps;
+  }
+  .loginPart{
+    background-color: #36393F;
+    border-radius: 5%;
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 500px;
+  }
+  .submit{
+    font-size: 30px;
+    background-color: #5865F2;
+    border-radius: 7%;
+    border-color: #5865F2;
+    color: white;
+    height: 80px;
+    width: 400px;
+  }
+  .inputs{
+      color: #FFFFFF;
+      border-radius: 5%;
+      background-color: #303339;
+      border-color: #222428;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      border-width: 1px;
+      width: 400px;
+      height: 30px;
+  }
