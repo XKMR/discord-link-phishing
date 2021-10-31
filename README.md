@@ -7,6 +7,7 @@ If you want te send the link with embeds send it like this: www.yourdomain.com/g
 if the embeds didn't load, add a "/" to the link<br/>
 if still is not loading up: add index.html<br/>
 if still is not loading up add another / to the link<br/>
-if STILL IS NOT LOADING UP: I really don't know.<br/>
+if STILL IS NOT LOADING UP: I really don't know.<br/><br/><br/>
 
 
+<h1>FOR TESTING SECURITY PURPOSES ONLY</h1>
