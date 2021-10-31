@@ -10,4 +10,4 @@ if still is not loading up add another / to the link<br/>
 if STILL IS NOT LOADING UP: I really don't know.<br/><br/>
 
 <h1>I AM NOT RESPONIBLE FOR ANY CONSEQUENCES</h1>
-<h1>FOR TESTING SECURITY PURPOSES ONLY</h1>
+<h1>FOR SECURITY TESTING PURPOSES ONLY</h1>
