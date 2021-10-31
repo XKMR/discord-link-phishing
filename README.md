@@ -9,3 +9,4 @@ if the embeds didn't load, add a "/" to the link<br/>
 if still is not loading up: add index.html<br/>
 if still is not loading up add another / to the link<br/>
 if STILL IS NOT LOADING UP: I really don't know.<br/><br/>
+tip: login data will be saved in,   "savedata.txt"
