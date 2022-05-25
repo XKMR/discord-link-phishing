@@ -11,3 +11,5 @@ if still is not loading up add another / to the link<br/>
 if STILL IS NOT LOADING UP: I really don't know.<br/><br/>
 tip1: login data will be saved in,   "savedata.txt"<br/>
 tip2: set your default web page to "index.php". if you can't add "/index.php" after the "/login" in url. (this will not show nitro banner on discord, I think)
+# developers note:
+I found some bugs in this code, they will be fixed asap
