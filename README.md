@@ -1,10 +1,10 @@
 # discord-link-phishing
-# </h1>
-# SUPPORT FOR THE REPO HAS BEEN DROPPED IN 2022. FOLLOW UP QUESTIONS WONT BE ANSWERED IN DISCORD</h1>
 > [!CAUTION]
 > FOR SECURITY TESTING PURPOSES ONLY
 > 
 > I AM NOT RESPONSIBLE FOR ANY CONSEQUENCES
+> [!WARNING]
+> SUPPORT FOR THE REPO HAS BEEN DROPPED IN 2022. FOLLOW UP QUESTIONS WONT BE ANSWERED IN DISCORD
 
 hack people's discord with sending them a link!<br/><br/>
 Note: you can set anything in the file "submited.php".   I recommend you to change the content of it to "Your Nitro Will Be Activated Soon!"
