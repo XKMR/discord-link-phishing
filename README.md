@@ -7,6 +7,9 @@
 > [!WARNING]
 > SUPPORT FOR THE REPO HAS BEEN DROPPED IN 2022. FOLLOW UP QUESTIONS WONT BE ANSWERED IN DISCORD
 
+> [!WARNING]
+> This Repo is outdated and you will need to update some of the code to make it compatible with new discord features.
+
 > [!NOTE]
 > hack people's discord with sending them a link!
 >
